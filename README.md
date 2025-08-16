@@ -6,6 +6,7 @@ The app allows users to increment, decrement, and reset the counter value with b
 
 ## 📸 Screenshot
 
+![image](https://github.com/Akulayagneshwaramurthy/React-Mini-Project-Counter-App/blob/main/Screenshot%202025-08-16%20143853.png)
 
 ## ✨ Features
 
